@@ -6,8 +6,7 @@
 4. `npm run start`
 
 ## Screenshots
-![Dashboard Full  View](.\screenshots\ATCA-Dashboard_TilesView.jpg)
-![Dashboard Full  View](.\screenshots\ATCA-Dashboard_FullView.jpg)
+![Dashboard Full  View](./screenshots/ATCA-Dashboard_FullView.jpg)
 
 ## How To Deploy?
 
