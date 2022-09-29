@@ -1,8 +1,14 @@
 # Automated Test Case Allocation
+
+## Group Members
+
+1. Ahsan Hamid (1812218)
+2. Sunila Zulfiqar (1812248)
+
 ## How To Install?
 1. `git clone https://github.com/King-Fisher-San/ATCA-FrontEnd`
 2. `cd ATCA-FrontEnd`
-3. `npm i --legacy-peers-`
+3. `npm i --legacy-peers-deps`
 4. `npm run start`
 
 ## Screenshots
